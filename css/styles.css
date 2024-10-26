@@ -1,0 +1,18 @@
+/* HEADER */
+#header-nav {
+    background-color: #999999;
+    border-radius: 0px;
+    border: solid 3px;
+    border-color: black;
+}
+#food-brand{
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#section-main-content {
+    background-color: #999999;
+}
+#section-main-content p {
+    height: 2000px
+}
