@@ -10,6 +10,19 @@
     font-size: 1.5em;
     font-weight: bold;
 }
+#collapsable-nav {
+    padding: 0px;
+    text-align: center;
+    font-size: 1.2em;
+}
+#nav-list {
+    margin: 0px;
+    background-color: aliceblue;
+}
+#nav-list li a{
+    border: solid 1px black;
+    color: black;
+}
 #section-main-content {
     background-color: #999999;
 }
